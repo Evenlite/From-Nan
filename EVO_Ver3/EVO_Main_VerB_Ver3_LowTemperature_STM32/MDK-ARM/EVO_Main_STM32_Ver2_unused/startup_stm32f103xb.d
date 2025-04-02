@@ -1,0 +1,1 @@
+evo_main_stm32_ver2\startup_stm32f103xb.o: startup_stm32f103xb.s
