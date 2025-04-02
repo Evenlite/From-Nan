@@ -335,7 +335,7 @@ void Charger_Init(void)
   */
 int main(void)
 {
-
+// changes test
   /* USER CODE BEGIN 1 */
 
   /* USER CODE END 1 */
